@@ -3,6 +3,8 @@
 #This was an experiment of running data analysis and data science tasks in python from NBA viewership data with Microsoft Copilot
 
 #1 Start by prompting copilot what is the best way to ask for its help - use copilot as a teammate, not a tool is a phrase I've heard lots about in this AI explosion
+
+
 ![image](https://github.com/user-attachments/assets/17f95743-255a-4197-a15f-a65569696272)
 
 #upload the excel sheet - which was pulled from Snowflake database and ask copilot to summarize key trends
